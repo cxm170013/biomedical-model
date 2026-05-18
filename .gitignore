@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+unc/
+venv/
+.env/
+
+# Streamlit cache
+.streamlit/
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Python build
+build/
+dist/
+*.egg-info/
